@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bc889cc-d381-4f60-af52-8b8a8e0f982f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bRGb0ny5IkZ7S4unBkLdsKK5RX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/portfolio/RP" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\games\webStorm\WebStorm 2020.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Шанц 832\catalogReact2\my-app\src\component\loading" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bc889cc-d381-4f60-af52-8b8a8e0f982f" name="Default Changelist" comment="" />
+      <created>1588587559819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588587559819</updated>
+      <workItem from="1588587561548" duration="27448000" />
+      <workItem from="1588640544207" duration="6357000" />
+      <workItem from="1588649959300" duration="15128000" />
+      <workItem from="1588676342101" duration="3745000" />
+      <workItem from="1588699305339" duration="21076000" />
+      <workItem from="1588730434135" duration="12833000" />
+      <workItem from="1588762752634" duration="7639000" />
+      <workItem from="1588772034913" duration="2374000" />
+      <workItem from="1588789029640" duration="18893000" />
+      <workItem from="1588817967422" duration="6389000" />
+      <workItem from="1588843657696" duration="20630000" />
+      <workItem from="1588908472462" duration="13537000" />
+      <workItem from="1588941169520" duration="1777000" />
+      <workItem from="1588952441300" duration="1596000" />
+      <workItem from="1589045521915" duration="3415000" />
+      <workItem from="1589097573296" duration="8165000" />
+      <workItem from="1589116467372" duration="8895000" />
+      <workItem from="1589134945417" duration="5241000" />
+      <workItem from="1589177679525" duration="10303000" />
+      <workItem from="1589202267212" duration="13354000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588588395114">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588588395114" />
+    <state x="628" y="297" key="EditFileWatcherDialog" timestamp="1588650709335">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="628" y="297" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588650709335" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1589221980945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589221980945" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1589180468387">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589180468387" />
+    <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1589224998778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="119" width="585" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589224998778" />
+    <state x="761" y="425" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589226447835">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="425" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589226447835" />
+    <state x="616" y="235" key="run.anything.popup" timestamp="1589189612181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="235" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589189612181" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589191421253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589191421253" />
+  </component>
+</project>

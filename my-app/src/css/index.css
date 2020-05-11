@@ -1,0 +1,15 @@
+.content {
+  width: 100%;
+}
+.content h2 {
+  font-size: 24px;
+  text-align: center;
+  margin-top: 45px;
+}
+
+.RightMenu {
+  height: 100vh;
+  width: 300px;
+}
+
+/*# sourceMappingURL=index.css.map */

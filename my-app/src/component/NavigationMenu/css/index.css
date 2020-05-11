@@ -1,0 +1,54 @@
+.NavigationMenu {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.09), 0 10px 10px rgba(0, 0, 0, 0.09);
+  height: 100vh;
+  width: 300px;
+}
+.NavigationMenu-user {
+  display: flex;
+  justify-content: center;
+  padding: 40px 0 40px 0;
+}
+.NavigationMenu-user_box {
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
+.NavigationMenu-user_box img {
+  border-radius: 100%;
+}
+.NavigationMenu-user_box__settings {
+  position: absolute;
+  right: -10px;
+  bottom: -10px;
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  background: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.NavigationMenu-user_box__settings i {
+  font-size: 22px;
+  color: forestgreen;
+}
+.NavigationMenu ul {
+  margin-top: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: column;
+}
+.NavigationMenu ul a {
+  margin: 15px 0;
+  font-weight: bold;
+  color: black;
+  width: 100%;
+  height: 100%;
+}
+
+.App-block {
+  display: flex;
+}
+
+/*# sourceMappingURL=index.css.map */

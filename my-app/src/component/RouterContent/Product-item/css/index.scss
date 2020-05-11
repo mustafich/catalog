@@ -1,0 +1,104 @@
+.ProductItem {
+
+  &-block {
+    padding-top: 40px;
+display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    &_box {
+      padding: 20px;
+      border-radius: 15px;
+      border: solid 2px gray;
+      margin: 15px;
+      width: 400px;
+      max-height: 530px;
+      &__img {
+        width: 100%;
+        height: 250px;
+        img {
+          width: 100%;
+          height: 100%;
+          padding: 20px;
+          border-radius: 15px;
+        }
+      }
+
+      &__name {
+
+        text-align: center;
+        font-size: 24px;
+        padding: 0 40px;
+        p {
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+      }
+
+      &__descriptions {
+        padding: 5px 5px;
+        font-size: 18px;
+        color: black;
+        p {
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+      }
+      &__price {
+        font-size: 18px;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        margin-left: 10px;
+        &___discountPrice {
+          margin-left: 10px;
+          font-size: 20px;
+          color: #8b0029;
+        }
+      }
+      &__discountDay {
+        display: flex;
+        justify-content: center;
+      }
+      &__butt {
+        margin-top: 10px;
+justify-content: space-between;
+        display: flex;
+        &___edit {
+          cursor: pointer;
+          padding: 7px;
+          border: 2px solid orange;
+          border-radius: 2px;
+          color: orange;
+          i {
+            color: orange;
+          }
+        }
+        &___delete {
+          cursor: pointer;
+          margin-left: 5px;
+          border: 2px solid red;
+          padding: 7px;
+          border-radius: 2px;
+          color: red;
+          i {
+            color: red;
+          }
+        }
+      }
+      &__add {
+        cursor: pointer;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 64px;
+        text-align: center;
+        height: 100%;
+        p {
+
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.loading-block {
+  width: 200px;
+  height: 200px;
+}
+
+/*# sourceMappingURL=index.css.map */

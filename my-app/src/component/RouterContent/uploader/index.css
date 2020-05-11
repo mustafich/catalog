@@ -1,0 +1,16 @@
+.dzu-dropzone {
+    width: 264%;
+    min-height: 60px;
+
+
+}
+.dzu-inputLabel {
+    text-align: center;
+    font-size: 12px;
+}
+.dzu-inputLabelWithFiles {
+    display: none;
+}
+.dzu-dropzone {
+    overflow: hidden;
+}
